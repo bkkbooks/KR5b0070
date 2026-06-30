@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5b0070/YP-C/v1
+canonical_location: https://kanripo.org/bkk/KR5b0070/YP-C/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太上洞淵三昧帝心光明正印太極紫微伏魔制鬼拯救惡道集福吉祥神咒
+  date: '2015-08-28 23:48:17.009215'
+  source:
+    repository: kanripo
+    path: KR5b0070
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: YP-C
+    label: 【原版道藏輯要】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5b0070_000-YP-C.yaml, hash: 'sha256:bd455fb8b53a7e019836962b18c65a5181a66fd66ac641abddcd0cbd8b884c4b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5b0070_000-YP-C.markers.yaml, hash: 'sha256:9d7035e5fe6d457180e4a55503846b56f5e3ec65749b62cc06b9897d17630428'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5b0070_YP-C_04fangji-05-0091a
+    span:
+    - body
+    - 0
+    - 369
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:0ac5d4c98efa3d04d47f2fc0001f081e609953ad516cba75a5dfbe7b853b44b4
