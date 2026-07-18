@@ -82,6 +82,7 @@ markers:
   - {type: variant, offset: 150, length: 1, content: 清, CK-KZ-jye: 淸}
   - {type: variant, offset: 150, length: 1, content: 清, YP-C: 淸}
   - {type: punctuation, offset: 158, content: (, id: KR5b0070_krp_000-bkkpn1}
+  - {type: voice, offset: 158, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 159, content: /, id: KR5b0070_krp_000-bkkpn2}
   - {type: variant, offset: 159, length: 1, content: 間, CK-KZ: 閉}
   - {type: variant, offset: 159, length: 1, content: 間, CK-KZ-jye: 閉}
@@ -182,6 +183,7 @@ markers:
   - {type: variant, offset: 304, length: 1, content: 虚, YP-C: 虛}
   - {type: substitution, offset: 304, original: 虚, replacement: 虛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20813}}
   - {type: punctuation, offset: 315, content: (, id: KR5b0070_krp_000-bkkpn4}
+  - {type: voice, offset: 315, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 316, content: /, id: KR5b0070_krp_000-bkkpn5}
   - {type: variant, offset: 316, length: 1, content: 櫓, CK-KZ: 標}
   - {type: variant, offset: 316, length: 1, content: 櫓, CK-KZ-jye: 標}
@@ -870,4 +872,4 @@ markers:
 
       ', id: KR5b0070_krp_000-bkkkrnewl38}
   back: []
-hash: sha256:b58d8d3214e3e60b17e0c8d7e5e9b505a490f08118aaf6a9feb27819262847fa
+hash: sha256:79a4366442150bfed1b403cc56e0f8757597be42ce59cb52162481d26542a888
